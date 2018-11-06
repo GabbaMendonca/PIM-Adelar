@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1541510618 source:c:\users\m11.srvchc.000\documents\trabunip-master\trab\main.c
+	<stdio.h>
+	<stdlib.h>
+	"teste.h"
+
+1541510569 source:c:\users\m11.srvchc.000\documents\trabunip-master\trab\bla.c
+	<stdio.h>
+	<string.h>
+
+1541448838 c:\users\m11.srvchc.000\documents\trabunip-master\trab\teste.h
+
